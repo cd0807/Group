@@ -1,1 +1,1 @@
-Project javascript.
+Project script.
